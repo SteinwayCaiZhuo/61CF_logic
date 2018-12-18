@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainLogic", "MainLogic\MainLogic.vcxproj", "{BA1FF0D4-F86C-4D2B-BD6F-EFFB87960987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1FF0D4-F86C-4D2B-BD6F-EFFB87960987}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA1FF0D4-F86C-4D2B-BD6F-EFFB87960987}.Debug|Win32.Build.0 = Debug|Win32
+		{BA1FF0D4-F86C-4D2B-BD6F-EFFB87960987}.Release|Win32.ActiveCfg = Release|Win32
+		{BA1FF0D4-F86C-4D2B-BD6F-EFFB87960987}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
